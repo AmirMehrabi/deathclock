@@ -22,7 +22,8 @@
     "development"
   ],
   "dependencies": {
-    "jquery": ">= 1.9.1"
+    "jquery": ">= 1.9.1",
+    "tailwindcss": "^1.4.6"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
